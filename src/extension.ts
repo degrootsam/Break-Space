@@ -37,10 +37,14 @@ export function activate(context: vscode.ExtensionContext) {
 		const newText = text.replace(/\s/g, '\n');
 
 
-
+		
 		editor.edit(editBuilder => {
 			editBuilder.replace(selection, newText);
 		});
+		
+		// Run a formatter on the selection
+		
+
 
 		vscode.window.showInformationMessage('Break Space!');
 	});

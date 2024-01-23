@@ -3,6 +3,10 @@
   "displayName": "Break Space",
   "description": "Can break long lines of code into new lines for each space.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/degrootsam/Break-Space"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
