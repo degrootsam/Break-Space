@@ -3,8 +3,7 @@
 This is the README for the extension "break-space". 
 
 ## Features
-
-![Alt text](dist/public/break-space-example-separatebyspace.gif)
+![Break Space Preview](dist/public/break-space-example-separatebyspace.gif)
 
 1. Select the text you want to have separated by space.
 2. Open the command pallette `(Shift + P)`.
